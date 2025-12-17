@@ -55,6 +55,7 @@ console.log(addOne(6,7)) //13
 // OR
 //const addTwo = (num1, num2) => (num1 + num2)
 
+
 const addTwo = (num1, num2) => ({username: "Madhu"}) //if u want to return obj then u need to wrap in parenthesis 
 
-console.log(addTwo(6,7)) //13
+//console.log(addTwo(6,7)) //13
